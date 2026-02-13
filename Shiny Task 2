@@ -1,0 +1,24 @@
+1.Check if a number is even or odd.
+2.Input a number. If it’s divisible by 2 and 3, print "Divisible by both", else print "Not divisible by both".
+3.Ask the user to enter a number. Print "Multiple of 5" if it is, otherwise print "Not a multiple of 5".
+4.Check whether the given year is a leap year or not.
+5.Student mark sheet with 5 grades
+6.Write a program to input a number and check if it's:
+a)Positive
+b)Negative
+c)Zero
+7. person can enter a party only if they:
+a)Have a ticket
+b)Are 18 years or older
+8.Login system:
+Ask for username and password.
+a)If username is correct, check password.
+b)If both are correct → "Login Successful"
+9.Check if a character is a vowel or consonant.
+10.Print the maximum and minimum of 3 numbers
+11.Age Category:
+Input age → classify as Child (0–12), Teen (13–19), Adult (20–59), Senior (60+)
+12.Write a Python program to create a basic calculator that takes two numbers and an operator (+, -, x, /) as input. Perform the operation and display the result.
+13.Write a program that takes a number as input and checks if its cube is greater than 100. Display whether it is above or below/equal to 100.
+14..Input a year and check if it’s a Leap Year using nested conditions:
+If divisible by 4 → check divisible by 100 → then check divisible by 400.
