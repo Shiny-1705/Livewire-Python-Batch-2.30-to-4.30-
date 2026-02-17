@@ -1,4 +1,4 @@
-'''
+
 a=int(input("ENTER A NUMBER :"))
 if a%2==0:
       print("EVEN")
@@ -136,8 +136,6 @@ else:
 
 
 
-'''
-
 
 year = int(input("Enter a year: "))
 if year % 4 == 0:
@@ -150,6 +148,7 @@ if year % 4 == 0:
         print("Is a Leap Year.")
 else:
     print(" Is not a Leap Year.")
+
 
 
 
