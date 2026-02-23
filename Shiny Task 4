@@ -1,0 +1,55 @@
+----------Loops-------------
+1.Use a for loop to:
+Enter a number between 1 and 100.
+2.Skip printing if the number is divisible by 3 using continue.
+3.Stop the loop if the number is divisible by 9 using break.
+4.Use a while loop to:
+i.Count down from the user’s number to 1.
+5.Use pass when the number is exactly 5.
+6.Stop when number is less than 1.
+7.Using a for loop, print each letter in the word "PYTHON" except for "H".
+8.Start from 20, count down using while loop.
+i.Skip number 17 using continue
+ii.Break at number 13
+
+---------------String--------------------
+1.Take your name as input and print it in uppercase.
+2.Take a sentence and convert it into lowercase.
+3.Enter a sentence and print it with the first letter capitalized.
+4.Use format() to display your name and age in a sentence.
+5.Find the index of a given character in a word.
+6.Find the position of a substring in a sentence using find().
+7.Check if a word ends with "ing" using endswith().
+8.Print a string with tabs (\t) and then use expandtabs() to show spaces.
+9.Encode a string into UTF-8 using encode().
+10.Check if a string contains only digits using isdigit().
+11.Check if a string is numeric using isnumeric().
+12.Check if a string is alphanumeric using isalnum().
+13.Check if a string contains only ASCII characters using isascii().
+14.Check if a string contains only alphabets using isalpha().
+15.Insert the word 'hii!!' in your sentence using format.
+
+---------------------Data structure------------------
+List Tasks with Method:
+1.Create a list of 10 numbers and use the following methods:
+append() → Add a new number at the end.
+insert() → Insert a number at index 3.
+remove() → Remove a specific number.
+pop() → Remove the last element.
+extend() → Add elements of another list.
+2.Write a program to count how many times a number occurs in a list (use count()).
+3.Write a program to find the index of a specific element (use index()).
+4.Create a list and reverse it using the reverse() method.
+5.Sort a list of numbers in ascending and descending order (use sort()).
+6.Remove all elements from a list (use clear()).
+7.Copy a list into another variable (use copy()).
+---------------------Tuple Tasks with Method---------------------------------
+8.Create a tuple of numbers and:
+Find the length (use len()).
+Find the maximum and minimum values (use max(), min()).
+9.Write a program to count how many times an element occurs in a tuple (use count()).
+10.Write a program to find the index of an element in a tuple (use index()).
+11.Convert a tuple into a list, add some elements, then convert it back into a tuple.
+12.Concatenate two tuples and print the result.
+13.Slice a tuple to print elements from index 2 to 5.
+14.Check if a given element exists in a tuple (using in operator).
