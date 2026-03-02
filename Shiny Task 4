@@ -53,3 +53,33 @@ Find the maximum and minimum values (use max(), min()).
 12.Concatenate two tuples and print the result.
 13.Slice a tuple to print elements from index 2 to 5.
 14.Check if a given element exists in a tuple (using in operator).
+-----------Set-----------
+Create a set of 5 numbers and print it.
+Add a new element to the set using add().
+Add multiple elements to a set using update().
+Remove an element from a set using remove().
+Remove an element using discard() and observe the difference from remove().
+Remove a random element from a set using pop().
+Clear all elements from a set using clear().
+Create two sets and find their:
+Union
+Intersection
+Find the difference between two sets.
+Find the symmetric difference between two sets.
+Check whether one set is a subset of another.
+Convert a list with duplicate values into a set.
+Check whether a given element exists in a set using in.
+-----------------DICTIONARY--------------
+Create a dictionary with student name and marks.
+Print all keys of the dictionary.
+Print all values of the dictionary.
+Print all key-value pairs using items().
+Access the value of a specific key.
+Add a new key-value pair using update().
+Remove a key using pop().
+Remove the last inserted item using popitem().
+Check whether a key exists in a dictionary using in.
+Clear all elements from a dictionary.
+Count the frequency of elements in a list using a dictionary.
+Merge two dictionaries into one.
+Find the key with the highest value in a dictionary.
