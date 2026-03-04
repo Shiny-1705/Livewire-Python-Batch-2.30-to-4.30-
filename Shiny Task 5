@@ -1,0 +1,11 @@
+Find the length of a string
+Find the maximum value of the number
+Find the minimum value of the number
+Find the sum of the number
+Check whether a number is a palindrome or not
+Write a function student_details(name, roll, dept) that prints the details using positional arguments.
+Write a function calculate_total(marks1, marks2, marks3) to calculate the total marks of a student using positional.
+Write a function rectangle_area(length, width) that calculates the area of a rectangle using positional argument.
+Write a function greet_user(name, message="Good Morning") that prints a greeting using default argument.
+Write a function add_numbers(*args) that returns the sum of any number of values.
+Write a function multiply_all(*args) that multiplies any number of values.
