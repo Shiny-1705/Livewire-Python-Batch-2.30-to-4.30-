@@ -189,6 +189,12 @@ print("Count :",Tuple.count(1))
 print("Index :",Tuple.index(9))
 '''
 #Convert a tuple into a list, add some elements, then convert it back into a tuple
+'''Tuple=(1,2,3,4,5)
+List=list(Tuple)
+List.extend([6,7,8])
+Tuple=tuple(List)
+print(Tuple)
+'''
 #Concatenate two tuples and print the result
 #Slice a tuple to print elements from index 2 to 5
 '''Tuple=(1,2,3,4,5,6,7,8)
@@ -243,6 +249,10 @@ print(a.issubset(b))
 print(b.issubset(a))
 '''
 #Convert a list with duplicate values into a set
+'''List=[1,2,1,3,4,4,5]
+Set=set(List)
+print(Set)
+'''
 #Check whether a given element exists in a set using in
 '''Set={1,2,3,4,5}
 print(5 in Set)
@@ -271,8 +281,10 @@ print("Popitem :",Dict.popitem())
 print("Age" in Dict)
 print("Name" in Dict)
 #Clear all elements from a dictionary
-print(Dict.clear())
+Dict.clear()
+print("Clear :",Dict)
 '''
+
 
 
 
