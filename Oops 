@@ -1,0 +1,21 @@
+🔹 Class and Object
+Create a class Student with name and marks and display the values using an object.
+Create a class with a method and call it using an object.
+Create multiple objects for a class and display different values.
+🔹 Inheritance (5 Types)
+Write a program to demonstrate Single Inheritance.
+Write a program to demonstrate Multiple Inheritance.
+Write a program to demonstrate Multilevel Inheritance.
+Write a program to demonstrate Hierarchical Inheritance.
+Write a program to demonstrate Hybrid Inheritance.
+🔹 Abstraction
+Create an abstract class and implement it using a child class.
+Create an abstract method and override it in the child class.
+🔹 Encapsulation (Public, Private, Protected)
+Create a class with public variable and access it.
+Create a class with private variable and access it using a method.
+Create a class with protected variable and access it.
+Write a program using getter and setter methods.
+🔹 Polymorphism
+Create two classes with same method name and show polymorphism.
+Write a program for operator overloading using +.
