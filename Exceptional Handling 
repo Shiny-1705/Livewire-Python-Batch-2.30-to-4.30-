@@ -1,0 +1,10 @@
+1.Write a program to handle divide by zero error.
+2.Take input from user and handle wrong input (like text instead of number).
+3.Use try and except to stop the program from crashing.
+4.Handle more than one error in a single program.
+5Use else block when there is no error.
+6.Use finally block that runs every time.
+7.Create your own exception using raise.
+8.Check age and show error if age is less than 18.
+9.Use multiple except blocks for different errors.
+10.Write a program using nested try-except.
